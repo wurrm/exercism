@@ -1,9 +1,16 @@
+.exercism/
+
+# Python
 __pycache__/
 *.py[cod]
 .pytest_cache/
-.exercism/
-
 .env
 .venv
 env/
 venv/
+
+# C++
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
